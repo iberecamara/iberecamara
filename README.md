@@ -22,7 +22,7 @@
     </tr>
     <tr valign="top">
       <td width="25%" align="center">
-        <span><bold>JBehave<bold></span><br><br>
+        <span><bold>JBehave</bold></span><br><br>
         <img height="64px" src="https://jbehave.org/images/jbehave-logo.png">
       </td>
       <td width="25%" align="center">
