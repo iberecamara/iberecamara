@@ -30,6 +30,10 @@
         <span>Visual Studio Code</span><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
       </td>
+      <td width="25%" align="center">
+        <span>Rally ALM</span><br><br>
+        <img height="64px" src="https://n7.nextpng.com/sticker-png/479/617/sticker-png-hackathon-agile-software-development-rally-software-computer-software-application-lifecycle-management-enterprise-rallying-cry-text-logo-signage-rally-software-thumbnail.png">
+      </td>
     </tr>
   </tbody>
 </table>
